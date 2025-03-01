@@ -60,8 +60,8 @@ export default function TodoList() {
         </CardHeader>
         <CardContent>
           <p className="text-muted-foreground">
-            Hi, I'm <span className="font-semibold">Sagar Navnath Gajbhar</span>, a passionate developer and a second-year student at JDCOE, Nagpur.
-            I love coding and creating projects that solve real-world problems. This is my simple Todo App built using Next.js and React.
+            Hi, I'm <span className="font-semibold">Sagar Navnath Gajbhar</span>, a passionate developer and a second-year student at JDCOE, Nagpur 
+            I love coding and creating projects that solve real-world problems This is my simple Todo App built using Next-js and React
           </p>
         </CardContent>
       </Card>
