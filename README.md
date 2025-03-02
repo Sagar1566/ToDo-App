@@ -49,5 +49,10 @@ Contributions are welcome! Feel free to submit a pull request or report issues i
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any questions or support, reach out to [your email or GitHub profile].
+## Contact Me
+- 📧 Email: [gajbharsn@jdcoem.ac.in]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sagar-gajbhar-032068310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 🌐 Portfolio Website: [https://my-portfolio-dhm3c9ifw-sagar-navnath-gajbhar-s-projects.vercel.app]
+- 🐙 GitHub: [https://github.com/Sagar1566]
+
+Feel free to explore my projects and reach out for collaborations!
